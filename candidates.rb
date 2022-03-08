@@ -1,5 +1,6 @@
 require 'active_support/all'
 
+# define the candidates with @ means it is a instance variable,
 @candidates = [
   {
     id: 5,
